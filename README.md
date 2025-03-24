@@ -36,3 +36,6 @@ The Contact Management Application demonstrates how to build a robust full-stack
    ```bash
      `npm install
       npm run start
+   ```
+4. And, boom. Open your browser.
+
